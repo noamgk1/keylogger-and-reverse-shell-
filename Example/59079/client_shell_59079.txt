@@ -1,0 +1,21 @@
+
+24/01/2023 23:16:19
+ SERVER: Command sent to client
+ Command: ping 8.8.8.8
+
+24/01/2023 23:16:22
+ 
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=80ms TTL=111
+Reply from 8.8.8.8: bytes=32 time=72ms TTL=111
+Reply from 8.8.8.8: bytes=32 time=72ms TTL=111
+Reply from 8.8.8.8: bytes=32 time=73ms TTL=111
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 72ms, Maximum = 80ms, Average = 74ms
+
+24/01/2023 23:16:30
+ SERVER: Command sent to client
+ Command: EXIT
