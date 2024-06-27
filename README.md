@@ -1,4 +1,4 @@
-# Keylogger And Reverse Shell
+# Remote Surveillance Platform
 
 A client-server application for collecting information from the client including keyboard output and screenshots, in addition to injecting commands into the client's computer.
 Key points in the application:
